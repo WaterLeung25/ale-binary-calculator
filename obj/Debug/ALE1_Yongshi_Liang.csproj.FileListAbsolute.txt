@@ -1,0 +1,10 @@
+D:\ICT\ALE1\ALE1_Yongshi_Liang\ALE1_Yongshi_Liang\bin\Debug\ALE1_Yongshi_Liang.exe.config
+D:\ICT\ALE1\ALE1_Yongshi_Liang\ALE1_Yongshi_Liang\bin\Debug\ALE1_Yongshi_Liang.exe
+D:\ICT\ALE1\ALE1_Yongshi_Liang\ALE1_Yongshi_Liang\bin\Debug\ALE1_Yongshi_Liang.pdb
+D:\ICT\ALE1\ALE1_Yongshi_Liang\ALE1_Yongshi_Liang\obj\Debug\ALE1_Yongshi_Liang.csprojResolveAssemblyReference.cache
+D:\ICT\ALE1\ALE1_Yongshi_Liang\ALE1_Yongshi_Liang\obj\Debug\ALE1_Yongshi_Liang.Form1.resources
+D:\ICT\ALE1\ALE1_Yongshi_Liang\ALE1_Yongshi_Liang\obj\Debug\ALE1_Yongshi_Liang.Properties.Resources.resources
+D:\ICT\ALE1\ALE1_Yongshi_Liang\ALE1_Yongshi_Liang\obj\Debug\ALE1_Yongshi_Liang.csproj.GenerateResource.Cache
+D:\ICT\ALE1\ALE1_Yongshi_Liang\ALE1_Yongshi_Liang\obj\Debug\ALE1_Yongshi_Liang.exe
+D:\ICT\ALE1\ALE1_Yongshi_Liang\ALE1_Yongshi_Liang\obj\Debug\ALE1_Yongshi_Liang.pdb
+D:\ICT\ALE1\ALE1_Yongshi_Liang\ALE1_Yongshi_Liang\obj\Debug\ALE1_Yongshi_Liang.csproj.CoreCompileInputs.cache
